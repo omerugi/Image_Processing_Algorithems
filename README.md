@@ -38,17 +38,17 @@ To run an example to see the results of our implantation - run file `ex{num}_ma
 <a name = "Ex1"></a>
 * ### Ex1:
 <a name = "ImageLoading"></a>
-  * ####Loading Grayscale and RGB image:
+  * #### Loading Grayscale and RGB image:
   Implemented a function to load images from the dir using `cv2` - the function loads the images in `Grayscale` or `RGB`, based on the user, convert from `BGR` to `RGB` (if needed) and convert to NpArray.
 <a name = "ImageDisplay"></a>
-  * ####Displaying figures and images:
+  * #### Displaying figures and images:
   Implemented a function to display images in `Grayscale` or `RGB` using `plt`.
 <a name = "RGB_YIQ"></a>
-  * ####Transforming color space - RGB to/formYIQ:
+  * #### Transforming color space - RGB to/formYIQ:
   Implemented a functions to convert color spaces - `RGB -> YIQ` & `YIQ -> RGB`.
   To do so we used a transformation matrix and dot produt to convert the original image to the disired color spacce.
 <a name = "HistEq"></a>
-  * ####Intensity transformations - Histogram Equalization:
+  * #### Intensity transformations - Histogram Equalization:
   Histogram equalization is a method for contrast adjustment using the image's histogram.
   The method uses only a single chanel, so in out implamantation Grayscal images would be equalized, and `RGB` images would take extra steps - First convert to `YIQ` then equalized only the `Y` channle than convert back to `RGB`.
   
