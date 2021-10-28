@@ -19,7 +19,7 @@ So to understand them better and how they work, we have implemented them in `Py
     * [Gamma Correction](#Gamma)
   * [Ex2:](#Ex2)
     * [Convolution on 1D and 2D arrays](#Conv)
-    * [Image derivative blurring](#Derev)
+    * [Image derivative](#Derev)
     * [Image blurring](#Blur)
     * [Edge Detection](#EdgeDetection)
     * [Hough Circles](#Hough)
