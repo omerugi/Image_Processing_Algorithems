@@ -67,7 +67,7 @@ def gammaDisplay(img_path: str, rep: int):
 
 
 def main():
-    gammaDisplay('/home/omerugi/PycharmProjects/Ex0/beach.jpg', 2)
+    gammaDisplay('beach.jpg', 2)
 
 
 if __name__ == '__main__':

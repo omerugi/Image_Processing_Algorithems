@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab22fd45-f5f1-4038-9d6b-1b2296296679" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex1/Computer_Vision.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/bac_con.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/ex1_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/testImg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/testImg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/beach (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/boxman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/codeMonkey.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/coincut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/coins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/ex2_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/ex2_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/frog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3/boxman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3/mask_cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3/pyr_bit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3/sunset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3/sunset_cat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/gamma.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/gamma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex3/ex3_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex3/ex3_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex3/ex3_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex3/ex3_utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="205TiyHOZtsCuvPPXNf18gHvuoF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.ex2">
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python">
+      <module name="Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex2/ex2_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python">
+      <module name="Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Optical_Flow_GaussianPyr_LaplaceianPyr" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Optical_Flow_GaussianPyr_LaplaceianPyr/ex3_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ex3" />
+      <item itemvalue="Python.ex2" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab22fd45-f5f1-4038-9d6b-1b2296296679" name="Changes" comment="" />
+      <created>1635333580431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635333580431</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
