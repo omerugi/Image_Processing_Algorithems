@@ -1,4 +1,6 @@
 # Image Processing Algorithms
+![image](https://user-images.githubusercontent.com/57361655/139246010-72c61f67-f782-459a-9647-3c87abee8fdc.png)
+
 ###### *Implemented by: Lilach Mor, Omer Rugi.*
 
 In the growing world of computer vision, there is still a lot of usage in classic *Image Processing* algorithms.
