@@ -1,7 +1,7 @@
 # Image Processing Algorithms
 ![image](https://user-images.githubusercontent.com/57361655/139246010-72c61f67-f782-459a-9647-3c87abee8fdc.png)
 
-###### *Implemented by: Lilach Mor, Omer Rugi.*
+###### *Implemented by: Lilach Mor, Omer Rugi.* 
 
 In the growing world of computer vision, there is still a lot of usage in classic *Image Processing* algorithms.
 So to understand them better and how they work, we have implemented them in `Python` - We focused on the well-known and commonly used algorithms.There are three files each one with different algorithms and simple code to show an example of the results.
