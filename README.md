@@ -7,9 +7,6 @@ In the growing world of computer vision, there is still a lot of usage in class
 So to understand them better and how they work, we have implemented them in `Python` - We focused on the well-known and commonly used algorithms.There are three files each one with different algorithms and simple code to show an example of the results.
 
 
-[Features](#features)
-<a name="features"></a>
-
 ## Table of Contents:
 * [How to run](#HowTo)
 * [Folders:](#Folders)
